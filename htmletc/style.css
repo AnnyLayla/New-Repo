@@ -38,7 +38,7 @@ body{
 header{
   height: 100vh;
   background-image: linear-gradient(to top, rgba(26, 148, 67, 0.192) 0%, rgba(5, 214, 134, 0.192) 99%, rgba(6, 146, 88, 0.164) 100%),
-   url(/img/Alquiler.jpeg);
+   url(img/Alquiler.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -460,4 +460,5 @@ button {
 }
 button:hover {
   background: #ff1e00;
+
 }

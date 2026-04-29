@@ -22,7 +22,7 @@ box-sizing: border-box;
 body{
     font-family: 'open sans', serif;
     color: rgb(10, 10, 10);
-    background: rgba(#EDE8D0);
+    background: rgba(EADF0B);
 }
 .contenedor{
   width: 90%;
